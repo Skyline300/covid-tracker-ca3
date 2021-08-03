@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 41 products, 9 sources, 17 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/eft/skyline/service/covidapi/CovidService.scala, ${BASE}/src/main/scala/eft/skyline/service/database/IORefService.scala, ${BASE}/src/main/scala/eft/skyline/service/database/DatabaseService.scala, ${BASE}/src/main/scala/eft/skyline/http/CovidDataRoutes.scala, ${BASE}/src/main/scala/eft/skyline/Main.scala, ${BASE}/src/main/scala/eft/skyline/domain/Data.scala, ${BASE}/src/main/scala/eft/skyline/config/Config.scala, ${BASE}/src/main/scala/eft/skyline/service/covidapi/Covid19Api.scala, ${BASE}/src/main/scala/eft/skyline/Module.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
